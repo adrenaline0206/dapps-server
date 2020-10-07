@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "bigint",
+        "dapps",
+        "nestjs",
+        "solt",
+        "tinyint",
+        "typeorm",
+        "varchar"
+    ],
+    "cSpell.ignoreWords": [
+        "miyuki"
+    ]
+}
