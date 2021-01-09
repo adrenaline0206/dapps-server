@@ -1,9 +1,4 @@
 # dapps-server
-
-![stars](https://img.shields.io/github/stars/adrenaline0206/dapps-server)
-![downloads](https://img.shields.io/github/downloads/adrenaline0206/dapps-server/total)
-![license](https://img.shields.io/github/license/adrenaline0206/dapps-server)
-
 dapps-server is server side application of [dapps-client](https://github.com/adrenaline0206/dapps-client).
 
 <img width="1434" alt="スクリーンショット 2020-06-27 11 30 45" src="https://user-images.githubusercontent.com/11623099/85912754-fb92cc00-b869-11ea-8eff-e29b765803da.png">
